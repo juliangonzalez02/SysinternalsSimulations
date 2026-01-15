@@ -1,2 +1,2 @@
-# SysinternalsSimulations
+# Sysinternals Simulations
 Simulations revolving Sysinternals
